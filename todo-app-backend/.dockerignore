@@ -1,0 +1,9 @@
+node_modules
+jspm_packages
+
+.vscode/
+build/
+.idea/
+data/
+
+.git

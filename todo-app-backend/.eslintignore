@@ -1,0 +1,11 @@
+
+.lock-wscript
+
+node_modules
+jspm_packages
+
+.vscode/
+build/
+dist/
+.idea/
+data/
